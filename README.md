@@ -1,2 +1,2 @@
-# datastructures-and-algorithms-python\
+# datastructures-and-algorithms-python
 Python Datastructures & Algorithms Topics / Interview Questions Solved on Jupyter Notebook
